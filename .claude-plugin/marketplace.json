@@ -1,0 +1,14 @@
+{
+  "name": "agentic-sdd-toolkit",
+  "description": "Team skills, agents and hooks for agentic Spec-Driven Development",
+  "owner": {
+    "name": "Your Name"
+  },
+  "plugins": [
+    {
+      "name": "sdd-team",
+      "source": "./plugins/sdd-team",
+      "description": "Preflight, ticket loop, change control, tests audit, adversarial review, Landing the Plane, and guardrail hooks"
+    }
+  ]
+}
